@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Omar and I work at Lü Interactive Playground. 
+
+![Omar's github stats](https://github-readme-stats.vercel.app/api?username=OmarAlFarajat&count_private=true&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlFarajat&layout=compact)
+
 <!--
 **OmarAlFarajat/OmarAlFarajat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
